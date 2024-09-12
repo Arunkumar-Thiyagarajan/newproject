@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./Header";
 import Heading from "./Heading";
 import card from "./card";
+import App from './App.jsx'
 function App() {
   const cards = [
     {
