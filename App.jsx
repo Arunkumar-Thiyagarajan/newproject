@@ -2,7 +2,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./Header";
 import Heading from "./Heading";
-import Card from "./Card";
+import card from "./card";
 function App() {
   const cards = [
     {
